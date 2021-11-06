@@ -23,11 +23,17 @@ This table contains an aggregation of Pakistan Cleaned Covid19 Stats (region bas
 Population of the regions of pakistan is taken from the Pakistan Statistics Of Bureau, Population Census of pakistan 2017. According to Pakistan Population Census of 2017, the populations are as under:
 
 **1) Population of sindh = 47886051**
+
 **2) Population of punjab = 110012442**
+
 **3) Population of Islamabad = 2006572**
+
 **4) Population of balochistan = 12344408**
+
 **5) Population of Khyber Pakhtunkhwa = 30523371**
+
 **6) Population of Azad jamu and Kashmir = 4045366**
+
 **7) Population of Gilgit-Baltistan = 1492924**
 
 
