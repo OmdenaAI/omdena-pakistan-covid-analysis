@@ -86,7 +86,7 @@ def categorical_eda(df, hue=None):
 def profiling_report(df):
     !pip install pandas-profiling
     from pandas_profiling import ProfileReport
-    ProfileReport(df)
+    return ProfileReport(df)
     
 
 def eda(df):
