@@ -1,3 +1,6 @@
+
+## [CSSE COVID19 DAILY REPORTS CLEANED](https://github.com/OmdenaAI/omdena-pakistan-covid-analysis/blob/main/Data/Covid19-Cleaned-Data/csse_covid19_daily_reports_cleaned.csv)
+
 Data Sourced from the following JHU CSSE GitHub Repository: 
 https://github.com/CSSEGISandData/COVID-19
 
@@ -5,12 +8,12 @@ This table contains an aggregation of Pakistan Cleaned Covid19 Stats (region bas
 
 ### Field Description:
 
-1. year
+1. year - 2020 to 2021
 2. province - The name of the State within Pakistan.
 3. country - The name of the Country (Pakistan).
-4. updated_dates- 
-5. latitude -
-6. longitude -
+4. updated_dates- 11-06-2020 to 05-08-2021
+5. latitude - Latitude of region
+6. longitude - Longitude of region
 7. confirmed - Aggregated case count for the province.
 8. deaths - Aggregated death toll for the province.
 9. recovered - Aggregated Recovered case count for the province.
