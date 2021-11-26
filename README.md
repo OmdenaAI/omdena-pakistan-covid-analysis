@@ -1,5 +1,5 @@
-# Omdena Pakistan Energy Crisis
-AI for  Reducing the energy crises in Pakistan using Machine Learning
+# Omdena Pakistan Covid Analysis
+ This project is all about the covid analysis of paksitan to give the contributors a hand's on experiennce.
 
 
 ## Contribution Guidelines
